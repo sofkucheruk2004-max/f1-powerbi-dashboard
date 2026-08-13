@@ -159,6 +159,6 @@ Advanced Power BI visualizations
 |------|-------------|
 | PowerBI_Dataset_About_F1.pbix | Power BI dashboard |
 | dashboard F1 (1, 2, 3) pages.png | Dashboard |
-| Video Project.mp4 | Dashboard videoverview |
+| Video_Project_F1.mp4 | Dashboard videoverview |
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
