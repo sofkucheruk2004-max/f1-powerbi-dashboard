@@ -2,7 +2,7 @@
 An interactive Formula 1 analytics dashboard built in Power BI to explore driver and constructor performance, championship statistics, race history, circuits, and season-to-season trends.
 The project combines data modeling, DAX, Power Query, interactive visualizations, drill-through functionality and 3D visualization into a multi-page analytical dashboard.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📊 Dashboard Preview
 F1 Championship Overview
