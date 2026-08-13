@@ -18,7 +18,7 @@ Races & Circuits Analysis
   <img src="Dashboard F1 page 3.png" width="100%">
 </p>
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 🎯 Project Objectives
 The main goal of the project is to transform Formula 1 historical data into an interactive analytical tool that allows users to:
@@ -31,7 +31,7 @@ Analyze grid position and pole position performance
 Explore race results and geographical distribution
 Identify top-performing drivers and constructors
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ⚙️ Interactive Features
 The dashboard includes several interactive features:
@@ -44,7 +44,7 @@ The dashboard includes several interactive features:
 🌍 Interactive geographical race analysis
 🔄 Season-to-season comparisons
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 🛠️ Tools & Technologies
 Tool
@@ -62,7 +62,7 @@ Interactive car visualization
 GitHub
 Project version control and portfolio
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📐 Data Model
 The project uses several Formula 1 datasets, including:
@@ -73,7 +73,7 @@ f1_circuits_races
 
 🔗: https://www.kaggle.com/datasets/atharvranjan/formula-1-world-championship-1950-present
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📈
 💡 Key Insights
@@ -99,7 +99,7 @@ Geographical analysis
 Career and season performance analysis
 Advanced Power BI visualizations
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📂 Repository Contents
 
@@ -109,4 +109,4 @@ Advanced Power BI visualizations
 | dashboard F1 (1, 2, 3) pages.png | Dashboard |
 | Video Project.mp4 | Dashboard videoverview |
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
