@@ -66,9 +66,13 @@ Project version control and portfolio
 
 📐 Data Model
 The project uses several Formula 1 datasets, including:
+
 f1_drivers
+
 f1_constructors
+
 f1_results
+
 f1_circuits_races
 
 🔗: https://www.kaggle.com/datasets/atharvranjan/formula-1-world-championship-1950-present
