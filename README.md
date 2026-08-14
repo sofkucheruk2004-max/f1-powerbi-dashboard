@@ -1,4 +1,5 @@
 🏎️ F1 Championship — Power BI Dashboard
+
 An interactive Formula 1 analytics dashboard built in Power BI to explore driver and constructor performance, championship statistics, race history, circuits, and season-to-season trends.
 
 The project combines data modeling, DAX, Power Query, interactive visualizations, drill-through functionality and 3D visualization into a multi-page analytical dashboard.
@@ -6,6 +7,7 @@ The project combines data modeling, DAX, Power Query, interactive visualizations
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📊 Dashboard Preview
+
 F1 Championship Overview
 <p align="center">
   <img src="Dashboard F1 page 1.png" width="100%">
@@ -24,6 +26,7 @@ Races & Circuits Analysis
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 🎯 Project Objectives
+
 The main goal of the project is to transform Formula 1 historical data into an interactive analytical tool that allows users to:
 
 Analyze driver and constructor performance
@@ -45,6 +48,7 @@ Identify top-performing drivers and constructors
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ⚙️ Interactive Features
+
 The dashboard includes several interactive features:
 
 🎛️ Dynamic slicers for season, driver, constructor and country
@@ -94,6 +98,7 @@ Project version control and portfolio
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📐 Data Model
+
 The project uses several Formula 1 datasets, including:
 
 f1_drivers
@@ -108,7 +113,6 @@ f1_circuits_races
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-📈
 💡 Key Insights
 
 The dashboard makes it possible to identify:
